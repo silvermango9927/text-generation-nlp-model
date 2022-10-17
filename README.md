@@ -9,6 +9,7 @@ Along with this, the additional information section comprises of scraped content
 
 ## Further development
 > Success is not a destination, but rather a journey which does not end
+
 This project has a lot more scope and I'm going to be investing my time and effort into:
 * Optimising the speeds and performance of the model and its processes
 * Creating an optimal web interface for people to easily interact with it
