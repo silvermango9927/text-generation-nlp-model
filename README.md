@@ -5,7 +5,7 @@ Say you have a question. You then decide to search on Google. Scrolling on and o
 
 ## My solution
 This model and porject can take in basically a query of any sort which is processed by the [GPT3 OpenAI algorithm](https://openai.com/api/) to give a succint description and solution to the question posed. \
-Along with this, the additional information section comprises of scraped content from websites using [JSON Custon Search API] (https://developers.google.com/custom-search/v1/overview). The required content is scraped from a list of websites that have been fetched. The content received and cleaned amounts to millions of characters. To shorten and condense this information into a succint format, [Bidirectional Encoder Representations](https://github.com/google-research/bert) (BERT) and [Generative Pre-trained Transformer](https://huggingface.co/gpt2) (GPT) have been used to get different summarisation styles and techniques.
+Along with this, the additional information section comprises of scraped content from websites using [JSON Custon Search API](https://developers.google.com/custom-search/v1/overview). The required content is scraped from a list of websites that have been fetched. The content received and cleaned amounts to millions of characters. To shorten and condense this information into a succint format, [Bidirectional Encoder Representations](https://github.com/google-research/bert) (BERT) and [Generative Pre-trained Transformer](https://huggingface.co/gpt2) (GPT) have been used to get different summarisation styles and techniques.
 
 ## Further development
 > Success is not a destination, but rather a journey which does not end
