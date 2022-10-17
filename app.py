@@ -83,4 +83,4 @@ for choice in response['choices']:
 
 final_response = model_res + '\n' + 'Additional information' + '\n' + info_para
 with open('response.txt', 'w') as file:
-    file.write(model_res)
+    file.write(final_response)
