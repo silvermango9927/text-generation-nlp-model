@@ -1,6 +1,6 @@
 # An NLP Text Generation Model
 
-###Problem Statement
+## Problem Statement
 Say you have a question. You then decide to search on Google. Scrolling on and on, brings you to an obscure website that seems to be the only one having your answer. You click on it and find it to be filled with unnecessary text to the brim with a small portion of it being what you actually want. 
 
 ## My solution
